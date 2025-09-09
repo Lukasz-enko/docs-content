@@ -91,7 +91,7 @@ Touch the copper pad and one of the resistors leads simultaneously, hold the sol
 
 **Apply solder** to the joint while holding the soldering iron on the copper pad and the resistor lead. Avoid applying solder directly to the soldering tip; the joint should be hot enough to melt the solder.
 
-When there is enough solder in the joint, remove the soldering iron and let it cool down naturally. Once cool, **snip the extra wire** from the resistor lead. Avoid bad joints by blowing on the solder and not allowing it to cool down naturally. Repeat this process with the other resistor lead and the rest of the components of the circuit. 
+When there is enough solder in the joint, remove the soldering iron and let it cool down naturally. Once cool, **snip the extra wire** from the resistor lead. Avoid bad joints by allowing them to cool down naturally, and not blowing on the solder. Repeat this process with the other resistor lead and the rest of the components of the circuit. 
 
 ***Good solder joints are smooth, shiny, and have a volcano-like shape. Good solder joints also have enough solder to cover the entire joint but not too much to spill it.***
 
